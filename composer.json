@@ -6,6 +6,7 @@
         "php": "^8.3",
         "potter/clock": "dev-main",
         "potter/container": "dev-main",
+        "potter/event": "dev-main",
         "potter/link": "dev-main",
         "potter/logger": "dev-main"
     },
