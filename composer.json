@@ -4,6 +4,7 @@
     "type": "metapackage",
     "require": {
         "php": "^8.3",
+        "potter/application": "dev-main",
         "potter/clock": "dev-main",
         "potter/container": "dev-main",
         "potter/event": "dev-main",
