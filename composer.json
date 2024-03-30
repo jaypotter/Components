@@ -11,7 +11,7 @@
         "potter/event": "dev-main",
         "potter/link": "dev-main",
         "potter/logger": "dev-main",
-        "potter/ouput-buffer": "dev-main",
+        "potter/output-buffer": "dev-main",
         "potter/session": "dev-main"
     },
     "suggest": {
