@@ -12,7 +12,8 @@
         "potter/link": "dev-main",
         "potter/logger": "dev-main",
         "potter/output-buffer": "dev-main",
-        "potter/session": "dev-main"
+        "potter/session": "dev-main",
+        "potter/socket": "dev-main"
     },
     "suggest": {
         "potter/framework": "dev-main"
